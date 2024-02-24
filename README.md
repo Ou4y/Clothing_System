@@ -12,8 +12,6 @@ Welcome to the Clothing System Java project repository! This system is designed 
 ## Technologies Used:
 
 - **Java:** Core programming language for the backend logic.
-- **Spring Boot:** Framework for building robust and scalable Java applications.
-- **Hibernate:** Object-relational mapping for database interaction.
 - **JavaFX:** Framework for building modern and interactive graphical user interfaces.
 
 
